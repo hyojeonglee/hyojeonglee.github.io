@@ -1,0 +1,26 @@
+# Site navigation links
+
+- title: Profile
+  url: /profile/
+  excerpt: ""
+  image: # 300x200.gif
+
+- title: Research 
+  url: /research/
+  excerpt: ""
+  image: 
+
+- title: Project
+  url: /project/
+  excerpt: ""
+  image:
+
+- title: Library
+  url: /reading/
+  excerpt: ""
+  image:
+
+- title: Whatever
+  url: /whatever/
+  excerpt: ""
+  image:
