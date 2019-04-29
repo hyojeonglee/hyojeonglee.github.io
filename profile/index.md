@@ -12,6 +12,7 @@ share: true
 ads: false
 ---
 
+## Hyo-jeong Lee. Seoul, Korea
 I'm in my M.S degree at Seoul National University in Korea. Currently, I'm studying scalable techniques on system and interested in followings:
 * Parallel Computing
 * Linux/Unix environment
