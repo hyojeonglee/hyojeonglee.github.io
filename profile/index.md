@@ -1,7 +1,7 @@
 ---
 title:
 date: 2019-04-27 23:44:20 Z
-layout: article
+layout: home
 modified: 2019-04-27 23:44:20 Z
 excerpt: ""
 image:
@@ -12,12 +12,12 @@ share: true
 ads: false
 ---
 
-## Hyo-jeong Lee. Seoul, Korea
+<!-- ## Hyo-jeong Lee. Seoul, Korea -->
 I'm in my M.S degree at Seoul National University in Korea. Currently, I'm studying scalable techniques on system and interested in followings:
 * Parallel Computing
+* Troubleshooting with multi-thread concurrency
 * Linux/Unix environment
 * System performance tuning
-* Troubleshooting with multi-thread concurrency
 * Automation in the development process
 * Computer Science Education
 
@@ -36,16 +36,17 @@ In detail,
 <br /><br />
 
 ## Education
-* 2018.03 - 20.02: M.S in Seoul National university, Computer Engineering, <a href="http://dcslab.snu.ac.kr">Distributed Computing System Lab</a>.
+* 2018.03 - 20.02: M.S in Seoul National University, Computer Engineering, <a href="http://dcslab.snu.ac.kr">Distributed Computing System Lab</a>.
 * 2017.03 - 18.02: Undergraduate intern at Sookmyung Women's University, Distributed System Lab.
 * 2014.03 - 18.02: B.S in Sookmyung Women's University, Computer Science.
 <br /><br />
 
-## Educational Experience
-* 2017.09: (Special lecture) Machine Learning basic with MNIST TA, Seoil University. 
-* 2017.03 - 17.06: (Regular class) Understanding Software class TA, Sookmyung Women's University.
-* 2017.04 - 17.06: (Special lecture) Python basic lecture TA, Sookmyung Women's University.
-* 2017.02: (Special lecture) Arduino basic lecture TA, Sookmyung Women's University.
+## Teaching & Advising Experiences
+* 2019.09 - 19.12: TA for Operating System (Regular class), Seoul National University.
+* 2017.09: TA for Machine Learning basic with MNIST (Special lecture), Seoil University. 
+* 2017.03 - 17.06: TA for Understanding Software (Regular class), Sookmyung Women's University.
+* 2017.04 - 17.06: TA for Python basic (Special lecture), Sookmyung Women's University.
+* 2017.02: TA for Arduino basic (Special lecture), Sookmyung Women's University.
 * 2016.10 - 16.12: <a href="https://blog.naver.com/hyon2224/220875764962">Arduino basic education</a>, <a href="http://codingclubs.org/">Coding Club</a>.
 * 2016.07: <a href="https://blog.naver.com/hyon2224/220801760095">Global ICT/Culture educational volunteer</a>, <a href="https://kiv.nia.or.kr/front/main/main.do">NIA 한국정보화진흥원</a>
 * 2015.01 - 16.06: English Mentor at Song-cheon elementary school, <a href="https://www.facebook.com/TeachMentorChange/">TeachMentorChange</a>
