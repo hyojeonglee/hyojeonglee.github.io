@@ -1,5 +1,5 @@
 ---
-title:
+title: ""
 date: 2019-04-27 23:44:20 Z
 layout: home
 modified: 2019-04-27 23:44:20 Z
