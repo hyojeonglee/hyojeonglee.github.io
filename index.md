@@ -23,10 +23,10 @@ I'm in my M.S degree at Seoul National University in Korea. Currently, I'm study
 
 In detail, 
 * Parallel Garbage Collection policy of Java Virtual Machine (JVM).
-* Scalable logging technique on Database system.
 * Memory management of Operating System (e.g., Linux Kernel).
-* Distributed File System (e.g., HDFS, Lustre) and data management middleware.
 * GPU memory management on virtualized environment (e.g., Docker container).
+* Scalable logging technique on Database system.
+* Distributed File System (e.g., HDFS, Lustre) and data management middleware.
 <br /><br />
 
 ## Contact Me
