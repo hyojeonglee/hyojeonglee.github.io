@@ -1,7 +1,7 @@
 ---
 title:
 date: 2019-04-27 23:44:20 Z
-layout: article
+layout: home
 modified: 2019-04-27 23:44:20 Z
 excerpt: ""
 image:
